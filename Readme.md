@@ -18,12 +18,12 @@
 
 #### Bibliotecas utilizadas:
 
-**1. *Spring Data JPA***
-**2. *Spring Web***
-**3. *Spring Boot DevTools***
-**4. *Lombok***
-**5. *Validation***
-**6. *MySQL Driver***
+1. ***Spring Data JPA***
+2. ***Spring Web***
+3. ***Spring Boot DevTools***
+4. ***Lombok***
+5. ***Validation***
+6. ***MySQL Driver***
 
 ### End Points
 
