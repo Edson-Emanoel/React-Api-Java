@@ -10,7 +10,7 @@
     npm i axios 
 ````
 
-## Java
+## Java <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ### Detalhes
 
@@ -27,7 +27,7 @@
 
 ### End Points
 
-**Cadastrar**
+<img src="https://img.shields.io/badge/POST-298D46?style=for-the-badge" /> Cadastrar  
 
 ````
     http://localhost:8080/api/alunos/cadastrar
@@ -41,7 +41,7 @@
     }
 ````
 
-**Alterar**
+<img src="https://img.shields.io/badge/put-FCFF3A?style=for-the-badge" /> Alterar
 
 ````
     http://localhost:8080/api/alunos/alterar/3
@@ -56,25 +56,25 @@
     }
 ````
 
-**Listar Todos**
+<img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" /> Listar Todos
 
 ````
     http://localhost:8080/api/alunos/todos
 ````
 
-**Listar por Id**
+<img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" /> Listar por Id
 
 ````
     http://localhost:8080/api/alunos/aluno/1
 ````
 
-**Remover** 
+<img src="https://img.shields.io/badge/DELETE-FF0000?style=for-the-badge" /> Remover 
 
 ````
     http://localhost:8080/api/alunos/remover/2
 ````
 
-## React
+## React <img src="https://img.shields.io/badge/java-%23FF6600.svg?&style=for-the-badge" />
 
 ### Biblioteca utilizada
 
