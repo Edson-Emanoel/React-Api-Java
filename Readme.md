@@ -10,6 +10,12 @@
     npm i axios 
 ````
 
+## React <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+### Biblioteca utilizada
+
+**Axios: v*1.7.2***
+
 ## Java <img src="https://img.shields.io/badge/java-%23FF6600.svg?&style=for-the-badge" />
 
 ### Detalhes
@@ -73,9 +79,3 @@
         "sexo": "F" 
     }
 ````
-
-## React <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-### Biblioteca utilizada
-
-**Axios: v*1.7.2***
