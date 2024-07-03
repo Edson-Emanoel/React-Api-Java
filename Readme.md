@@ -10,7 +10,7 @@
     npm i axios 
 ````
 
-## Java <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+## Java <img src="https://img.shields.io/badge/java-%23FF6600.svg?&style=for-the-badge" />
 
 ### Detalhes
 
@@ -74,7 +74,7 @@
     http://localhost:8080/api/alunos/remover/2
 ````
 
-## React <img src="https://img.shields.io/badge/java-%23FF6600.svg?&style=for-the-badge" />
+## React <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ### Biblioteca utilizada
 
